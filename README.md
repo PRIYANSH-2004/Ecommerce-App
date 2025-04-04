@@ -39,4 +39,19 @@ This project is a basic e-commerce app with core features such as:
 - **`WishListScreen`**:  
   Enables users to mark and review favorite products.
 
+## 🚀 3. How to Run the Project
 
+Follow these steps to get the app running locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/PRIYANSH-2004/Ecommerce-App.git
+
+# 2. Navigate to the project directory
+cd Ecommerce-App
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm start
